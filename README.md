@@ -62,14 +62,12 @@ The report also contains supporting pages and tooltip interactions for deeper an
 
 ---
 
-## Screenshots
-
-Add screenshots of your dashboard here for better presentation.
+## Screenshot
 
 Example:
 
 ```md
-![Dashboard Screenshot](images/dashboard.png)
+![Sales Dashboard](images/dashboard-overview.png)
 ```
 
 ---
